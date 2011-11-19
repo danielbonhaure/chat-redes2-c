@@ -83,7 +83,7 @@ int main(int argc, char *argv[]) {
 
 	struct sockaddr*   addrServ = (struct sockaddr*)&addrInServ;
 
-	// CLIENTE
+	// CLIENTE YO
 	struct sockaddr_in addrInCli;
 	bzero(&addrInCli,sizeof(addrInCli));
 	addrInCli.sin_family      = AF_INET;
