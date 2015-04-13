@@ -1,0 +1,1 @@
+Un chat que utiliza un cliente y un servidor hechos en lenguaje c para la materia Redes de Comunicaciones 2 de la Carrera Ingeniería Informática de la Universidad Católica "Nuestra Señora de la Asunción"
